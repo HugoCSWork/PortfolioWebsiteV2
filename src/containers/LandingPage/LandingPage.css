@@ -1,0 +1,21 @@
+.landing-description {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.landing-description h1 {
+  font-size: 8rem;
+  color: #fff;
+  user-select: none;
+}
+
+.landing-description h6 {
+  padding: 4rem;
+  font-size: 3rem;
+  font-weight: 300;
+}

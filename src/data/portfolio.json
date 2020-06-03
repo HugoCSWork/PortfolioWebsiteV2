@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Notey",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore laboriosam beatae libero omnis itaque dolorum nam nostrum",
+    "technologies": ["ReactJS", "Redux", "Firebase", "Styled-Components"],
+    "image": "portitem1.jpeg",
+    "link": "https://www.github.com/hugocswork",
+    "website": "#"
+  },
+  {
+    "name": "Local AWS",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore laboriosam beatae libero omnis itaque dolorum nam nostrum",
+    "technologies": ["Python", "Flask"],
+    "image": "portitem2.jpeg",
+    "link": "https://www.github.com/hugocswork"
+  }
+]

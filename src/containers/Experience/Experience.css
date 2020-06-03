@@ -1,0 +1,32 @@
+.experience {
+  margin-top: 15rem;
+}
+
+.timeline ul {
+  border-left: 4px solid;
+  border-right: 4px solid;
+  border-radius: 0.8rem;
+  background-color: rgba(0, 0, 0, 0.05);
+  margin: 0 auto;
+  padding: 15px 15px 0px 15px;
+  position: relative;
+  list-style: none;
+  text-align: left;
+  width: 90%;
+}
+
+.timeline h1 {
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  opacity: 0.3;
+}
+
+.timeline .date {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  list-style: none;
+  position: relative;
+}

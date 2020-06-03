@@ -1,0 +1,15 @@
+.text-center {
+  padding: 3rem 10%;
+}
+
+.emailButton {
+  margin: 15px;
+  padding: 1.5rem 3rem;
+  background: none;
+  border: 1px solid red;
+}
+
+.emailButton a {
+  text-decoration: none;
+  color: red;
+}
